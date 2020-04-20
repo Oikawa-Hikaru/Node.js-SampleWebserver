@@ -1,7 +1,6 @@
 {
   "name": "nodeapp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node webserver.js",
@@ -10,6 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.0.2",
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oikawa-Hikaru/Node.js-SampleWebserver"
+  },
+  "description": ""
 }
